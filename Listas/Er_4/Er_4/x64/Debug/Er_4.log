@@ -1,0 +1,7 @@
+﻿  Er_4.cpp
+C:\Users\Ricardo Bessa\Desktop\Algoritmia\Er_4\Er_4\Er_4.cpp(18,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Ricardo Bessa\Desktop\Algoritmia\Er_4\Er_4\Er_4.cpp(24,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\Ricardo Bessa\Desktop\Algoritmia\Er_4\Er_4\Er_4.cpp(24,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\Ricardo Bessa\Desktop\Algoritmia\Er_4\Er_4\Er_4.cpp(24,11): message : the missing variadic argument 2 is required by format string '%s'
+C:\Users\Ricardo Bessa\Desktop\Algoritmia\Er_4\Er_4\Er_4.cpp(24,11): message : this argument is used as a buffer size
+  Er_4.vcxproj -> C:\Users\Ricardo Bessa\Desktop\Algoritmia\Er_4\x64\Debug\Er_4.exe

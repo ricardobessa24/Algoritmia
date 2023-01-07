@@ -1,0 +1,3 @@
+﻿  Er_3.cpp
+C:\Users\Ricardo Bessa\Desktop\Algoritmia\Er_3\Er_3\Er_3.cpp(15,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Er_3.vcxproj -> C:\Users\Ricardo Bessa\Desktop\Algoritmia\Er_3\x64\Debug\Er_3.exe

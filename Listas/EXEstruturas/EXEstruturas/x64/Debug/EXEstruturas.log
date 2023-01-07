@@ -1,0 +1,6 @@
+﻿  ExEstruturas.c
+C:\Users\Ricardo Bessa\Desktop\Algoritmia\EXEstruturas\EXEstruturas\ExEstruturas.c(28,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Ricardo Bessa\Desktop\Algoritmia\EXEstruturas\EXEstruturas\ExEstruturas.c(66,6): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\Ricardo Bessa\Desktop\Algoritmia\EXEstruturas\EXEstruturas\ExEstruturas.c(109,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\Ricardo Bessa\Desktop\Algoritmia\EXEstruturas\EXEstruturas\ExEstruturas.c(109,9): message : consider using '%zd' in the format string
+  EXEstruturas.vcxproj -> C:\Users\Ricardo Bessa\Desktop\Algoritmia\EXEstruturas\x64\Debug\EXEstruturas.exe

@@ -1,0 +1,15 @@
+Pessoa1;10;
+Pessoa2;20;
+Pessoa3;18;
+Pessoa4;25;
+Pessoa5;26;
+Pessoa6;33;
+Pessoa7;28;
+Pessoa8;29;
+Pessoa9;31;
+Pessoa10;32;
+Pessoa11;28;
+Pessoa12;43;
+Pessoa13;41;
+Pessoa14;12;
+Pessoa15;15;

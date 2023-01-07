@@ -1,0 +1,21 @@
+﻿  Arvores_binárias_exs.c
+C:\Users\Ricardo Bessa\Desktop\Algoritmia\Parte2\Arvores_binárias_exs\Arvores_binárias_exs\Arvores_binárias_exs.c(69,21): warning C4047: 'function': 'void **' differs in levels of indirection from 'int *(*)[10]'
+C:\Users\Ricardo Bessa\Desktop\Algoritmia\Parte2\Arvores_binárias_exs\Arvores_binárias_exs\Arvores_binárias_exs.c(69,15): warning C4022: 'CreateBT': pointer mismatch for actual parameter 1
+C:\Users\Ricardo Bessa\Desktop\Algoritmia\Parte2\Arvores_binárias_exs\Arvores_binárias_exs\Arvores_binárias_exs.c(45,1): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int'
+C:\Users\Ricardo Bessa\Desktop\Algoritmia\Parte2\Arvores_binárias_exs\Arvores_binárias_exs\Arvores_binárias_exs.c(113,21): warning C4133: 'function': incompatible types - from '_BTREE_NODE *' to 'BTREE'
+C:\Users\Ricardo Bessa\Desktop\Algoritmia\Parte2\Arvores_binárias_exs\Arvores_binárias_exs\Arvores_binárias_exs.c(115,22): warning C4133: 'function': incompatible types - from '_BTREE_NODE *' to 'BTREE'
+C:\Users\Ricardo Bessa\Desktop\Algoritmia\Parte2\Arvores_binárias_exs\Arvores_binárias_exs\Arvores_binárias_exs.c(131,30): warning C4133: 'function': incompatible types - from '_BTREE_NODE **' to 'BTREE *'
+C:\Users\Ricardo Bessa\Desktop\Algoritmia\Parte2\Arvores_binárias_exs\Arvores_binárias_exs\Arvores_binárias_exs.c(133,31): warning C4133: 'function': incompatible types - from '_BTREE_NODE **' to 'BTREE *'
+C:\Users\Ricardo Bessa\Desktop\Algoritmia\Parte2\Arvores_binárias_exs\Arvores_binárias_exs\Arvores_binárias_exs.c(145,29): warning C4133: 'function': incompatible types - from '_BTREE_NODE *' to 'BTREE'
+C:\Users\Ricardo Bessa\Desktop\Algoritmia\Parte2\Arvores_binárias_exs\Arvores_binárias_exs\Arvores_binárias_exs.c(145,49): warning C4133: 'function': incompatible types - from '_BTREE_NODE *' to 'BTREE'
+C:\Users\Ricardo Bessa\Desktop\Algoritmia\Parte2\Arvores_binárias_exs\Arvores_binárias_exs\Arvores_binárias_exs.c(154,39): warning C4047: '==': 'int *' differs in levels of indirection from 'int'
+C:\Users\Ricardo Bessa\Desktop\Algoritmia\Parte2\Arvores_binárias_exs\Arvores_binárias_exs\Arvores_binárias_exs.c(158,30): warning C4133: 'function': incompatible types - from '_BTREE_NODE *' to 'BTREE'
+C:\Users\Ricardo Bessa\Desktop\Algoritmia\Parte2\Arvores_binárias_exs\Arvores_binárias_exs\Arvores_binárias_exs.c(160,29): warning C4133: 'function': incompatible types - from '_BTREE_NODE *' to 'BTREE'
+C:\Users\Ricardo Bessa\Desktop\Algoritmia\Parte2\Arvores_binárias_exs\Arvores_binárias_exs\Arvores_binárias_exs.c(175,29): warning C4133: 'function': incompatible types - from '_BTREE_NODE *' to 'BTREE'
+C:\Users\Ricardo Bessa\Desktop\Algoritmia\Parte2\Arvores_binárias_exs\Arvores_binárias_exs\Arvores_binárias_exs.c(176,30): warning C4133: 'function': incompatible types - from '_BTREE_NODE *' to 'BTREE'
+C:\Users\Ricardo Bessa\Desktop\Algoritmia\Parte2\Arvores_binárias_exs\Arvores_binárias_exs\Arvores_binárias_exs.c(174,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'int *'
+C:\Users\Ricardo Bessa\Desktop\Algoritmia\Parte2\Arvores_binárias_exs\Arvores_binárias_exs\Arvores_binárias_exs.c(189,29): warning C4133: 'function': incompatible types - from '_BTREE_NODE *' to 'BTREE'
+C:\Users\Ricardo Bessa\Desktop\Algoritmia\Parte2\Arvores_binárias_exs\Arvores_binárias_exs\Arvores_binárias_exs.c(190,30): warning C4133: 'function': incompatible types - from '_BTREE_NODE *' to 'BTREE'
+C:\Users\Ricardo Bessa\Desktop\Algoritmia\Parte2\Arvores_binárias_exs\Arvores_binárias_exs\Arvores_binárias_exs.c(202,20): warning C4133: '=': incompatible types - from 'BTREE_NODE *' to '_BTREE_NODE *'
+C:\Users\Ricardo Bessa\Desktop\Algoritmia\Parte2\Arvores_binárias_exs\Arvores_binárias_exs\Arvores_binárias_exs.c(203,21): warning C4133: '=': incompatible types - from 'BTREE_NODE *' to '_BTREE_NODE *'
+  Arvores_binárias_exs.vcxproj -> C:\Users\Ricardo Bessa\Desktop\Algoritmia\Parte2\Arvores_binárias_exs\Debug\Arvores_binárias_exs.exe

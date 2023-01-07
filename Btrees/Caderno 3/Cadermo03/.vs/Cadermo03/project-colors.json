@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "78f85ca0-7eff-4667-96cf-8f648fdc9ac4": {
+      "ProjectGuid": "78f85ca0-7eff-4667-96cf-8f648fdc9ac4",
+      "DisplayName": "Cadermo03",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
